@@ -25,7 +25,7 @@ core → domain → data → application → presentation → features
 
 ## Notes
 
-- Color extraction is done manually -- pixel sampling on a background isolate, dividing the image into 5 equal horizontal bands and averaging each to build a full-image gradient.
+- Color extraction is done by pixel sampling on a background isolate.
 - Sealed exception types with exhaustive matching so error states can't fall through silently.
 - Light/dark mode follows system preference.
 
