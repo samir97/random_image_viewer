@@ -2,6 +2,10 @@
 
 Fetches a random image from the API, displays it as a square, and pulls colors from the image edges to create an animated gradient background.
 
+## Demo
+
+The video walks through fetching new images with smooth gradient transitions, error handling for corrupted or unavailable images, and the inline snackbar that appears when the device loses connectivity.
+
 ## Setup
 
 ```bash
