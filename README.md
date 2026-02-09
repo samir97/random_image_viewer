@@ -11,7 +11,7 @@ flutter run
 
 ## Architecture
 
-This is way more architecture than a single-screen app needs -- I wanted to show how I'd set up a codebase that's meant to grow.
+Layered with Riverpod, feature-based structure. More detail in [`lib/docs/architecture.md`](lib/docs/architecture.md).
 
 ```
 core → domain → data → application → presentation → features
