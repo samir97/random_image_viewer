@@ -6,6 +6,8 @@ Fetches a random image from the API, displays it as a square, and pulls colors f
 
 The video walks through fetching new images with smooth gradient transitions, error handling for corrupted or unavailable images, and the inline snackbar that appears when the device loses connectivity.
 
+https://github.com/samir97/random_image_viewer/raw/main/demo.mp4
+
 ## Setup
 
 ```bash
